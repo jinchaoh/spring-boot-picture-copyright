@@ -1,0 +1,65 @@
+{
+  "groups": [
+    {
+      "name": "swagger",
+      "type": "com.mao.demo.swagger.SwaggerProperties",
+      "sourceType": "com.mao.demo.swagger.SwaggerProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "swagger.basepackage",
+      "type": "java.lang.String",
+      "sourceType": "com.mao.demo.swagger.SwaggerProperties"
+    },
+    {
+      "name": "swagger.contract-email",
+      "type": "java.lang.String",
+      "sourceType": "com.mao.demo.swagger.SwaggerProperties",
+      "defaultValue": "default@gmail.com"
+    },
+    {
+      "name": "swagger.contract-name",
+      "type": "java.lang.String",
+      "sourceType": "com.mao.demo.swagger.SwaggerProperties",
+      "defaultValue": "default"
+    },
+    {
+      "name": "swagger.contract-url",
+      "type": "java.lang.String",
+      "sourceType": "com.mao.demo.swagger.SwaggerProperties",
+      "defaultValue": "default.com"
+    },
+    {
+      "name": "swagger.description",
+      "type": "java.lang.String",
+      "sourceType": "com.mao.demo.swagger.SwaggerProperties",
+      "defaultValue": "This is the default project description"
+    },
+    {
+      "name": "swagger.license",
+      "type": "java.lang.String",
+      "sourceType": "com.mao.demo.swagger.SwaggerProperties",
+      "defaultValue": "Apache License 2.0"
+    },
+    {
+      "name": "swagger.license-url",
+      "type": "java.lang.String",
+      "sourceType": "com.mao.demo.swagger.SwaggerProperties",
+      "defaultValue": "https:\/\/www.apache.org\/licenses\/LICENSE-2.0"
+    },
+    {
+      "name": "swagger.title",
+      "type": "java.lang.String",
+      "sourceType": "com.mao.demo.swagger.SwaggerProperties",
+      "defaultValue": "Project API"
+    },
+    {
+      "name": "swagger.version",
+      "type": "java.lang.String",
+      "sourceType": "com.mao.demo.swagger.SwaggerProperties",
+      "defaultValue": "v1.0.0"
+    }
+  ],
+  "hints": []
+}
